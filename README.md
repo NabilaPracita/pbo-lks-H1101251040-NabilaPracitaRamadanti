@@ -5,42 +5,42 @@ NIM   : H1101251040
 Kelas : PBO B
 
 ## Daftar Pertemuan
--	[ ] Pertemuan 1 - Setup & Database
--	[ ] Pertemuan 2 - Core OOP
--	[ ] Pertemuan 3 - Framework & Routing
--	[ ] Pertemuan 4 - Testing Backend
--	[ ] Pertemuan 5 - CRUD Kategori
--	[ ] Pertemuan 6 - Frontend
--	[ ] Pertemuan 7 - Integrasi & Finalisasi
+-	[x] Pertemuan 1 - Setup & Database
+-	[x] Pertemuan 2 - Core OOP
+-	[x] Pertemuan 3 - Framework & Routing
+-	[x] Pertemuan 4 - Testing Backend
+-	[x] Pertemuan 5 - CRUD Kategori
+-	[x] Pertemuan 6 - Frontend
+-	[x] Pertemuan 7 - Integrasi & Finalisasi
 
 ## Dokumentasi Screenshot Tiap Pertemuan
 
-- [Pertemuan 01](pertemuan-01/langkah-01.png)
-- [Pertemuan 01](pertemuan-01/langkah-02.png)
-- [Pertemuan 01](pertemuan-01/langkah-03.png)
-- [Pertemuan 01](pertemuan-01/langkah-04.png)
-- [Pertemuan 01](pertemuan-01/langkah-05.png)
-- [Pertemuan 02](pertemuan-02/langkah-06.png)
-- [Pertemuan 02](pertemuan-02/langkah-07.png)
-- [Pertemuan 02](pertemuan-02/langkah-08.png)
-- [Pertemuan 02](pertemuan-02/langkah-09(1).png)
-- [Pertemuan 02](pertemuan-02/langkah-09(2).png)
-- [Pertemuan 02](pertemuan-02/langkah-09(3).png)
-- [Pertemuan 02](pertemuan-02/langkah-09(4).png)
-- [Pertemuan 03](pertemuan-03/langkah-10.png)
-- [Pertemuan 03](pertemuan-03/langkah-11.png)
-- [Pertemuan 04](pertemuan-04/langkah-12(1).png)
-- [Pertemuan 04](pertemuan-04/langkah-12(2).png)
-- [Pertemuan 05](pertemuan-05/langkah-13.png)
-- [Pertemuan 05](pertemuan-05/langkah-14.png)
-- [Pertemuan 05](pertemuan-05/langkah-15.png)
-- [Pertemuan 06](pertemuan-06/langkah-16.png)
-- [Pertemuan 06](pertemuan-06/langkah-17.png)
-- [Pertemuan 06](pertemuan-06/langkah-18(1).png)
-- [Pertemuan 06](pertemuan-06/langkah-18(2).png)
-- [Pertemuan 07](pertemuan-07/langkah-19(1).png)
-- [Pertemuan 07](pertemuan-07/langkah-19(2).png)
-- [Pertemuan 07](pertemuan-07/langkah-19(3).png)
+- [Pertemuan 01 Langkah 1](pertemuan-01/langkah-01.png)
+- [Pertemuan 01 Langkah 2](pertemuan-01/langkah-02.png)
+- [Pertemuan 01 Langkah 3](pertemuan-01/langkah-03.png)
+- [Pertemuan 01 Langkah 4](pertemuan-01/langkah-04.png)
+- [Pertemuan 01 Langkah 5](pertemuan-01/langkah-05.png)
+- [Pertemuan 02 Langkah 6](pertemuan-02/langkah-06.png)
+- [Pertemuan 02 Langkah 7](pertemuan-02/langkah-07.png)
+- [Pertemuan 02 Langkah 8](pertemuan-02/langkah-08.png)
+- [Pertemuan 02 Langkah 9 (1)](pertemuan-02/langkah-09(1).png)
+- [Pertemuan 02 Langkah 9 (2)](pertemuan-02/langkah-09(2).png)
+- [Pertemuan 02 Langkah 9 (3)](pertemuan-02/langkah-09(3).png)
+- [Pertemuan 02 Langkah 9 (4)](pertemuan-02/langkah-09(4).png)
+- [Pertemuan 03 Langkah 10](pertemuan-03/langkah-10.png)
+- [Pertemuan 03 Langkah 11](pertemuan-03/langkah-11.png)
+- [Pertemuan 04 Langkah 12 (1)](pertemuan-04/langkah-12(1).png)
+- [Pertemuan 04 Langkah 12 (2)](pertemuan-04/langkah-12(2).png)
+- [Pertemuan 05 Langkah 13](pertemuan-05/langkah-13.png)
+- [Pertemuan 05 Langkah 14](pertemuan-05/langkah-14.png)
+- [Pertemuan 05 Langkah 15](pertemuan-05/langkah-15.png)
+- [Pertemuan 06 Langkah 16](pertemuan-06/langkah-16.png)
+- [Pertemuan 06 Langkah 17](pertemuan-06/langkah-17.png)
+- [Pertemuan 06 Langkah 18 (1)](pertemuan-06/langkah-18(1).png)
+- [Pertemuan 06 Langkah 18 (2)](pertemuan-06/langkah-18(2).png)
+- [Pertemuan 07 Langkah 19 (1)](pertemuan-07/langkah-19(1).png)
+- [Pertemuan 07 Langkah 19 (2)](pertemuan-07/langkah-19(2).png)
+- [Pertemuan 07 Langkah 19 (3)](pertemuan-07/langkah-19(3).png)
 
 ## Screenshot Aplikasi Final
 
