@@ -1,0 +1,11 @@
+{
+    "name": "nabila/rest-api-perpustakaan",
+    "description": "REST API Perpustakaan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
